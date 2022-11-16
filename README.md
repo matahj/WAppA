@@ -12,17 +12,17 @@ Además:
 * Los alumnos pueden hacer uso de las salas previa inscripción en un grupo al inicio del ciclo escolar.
 * Cada grupo tiene un profesor responsable.
 * Los profesores también pueden hacer uso del CEA.
-* Los profesores pueden ver en línea o solicitar al administrador un reporte (del grupo, por alumno o de él como profesor) sobre el tiempo que han estado en el CEA y sobre el tiempo de utilización de los recursos particulares.
-* Los reportes pueden ser de todo el grupo, de un alumno en particular o del profesor.
-* Los usuarios (alumnos o profesores) pueden ver en línea o solicitar al administrador un reporte personal de su actividad.
-* Los reportes deben incluir el tiempo total y en cada sala por usuario, desde su primera inscripción o durante el ciclo escolar actual.
-* También, los reportes deben incluir el tiempo de utilización de cada recurso, desde su primera inscripción o durante el ciclo escolar actual.
-* Los reportes se deben poderse ver en la aplicación y permitir la interacción, con los permisos de acceso adecuados para cada usuario.
-* También, los reportes deben poderse trasladar a un pdf paras su impresión. 
+* Los profesores pueden solicitar al administrador un reporte del grupo o por alumno sobre el tiempo que han estado en el CEA y sobre el tiempo de utilización de los recursos particulares.
+* Los usuarios (alumnos o profesores) pueden solicitar al administrador un reporte personal de su actividad.
+* Los reportes pueden ser totales, desde la primera inscripción o parciales, del ciclo escolar en curso.
+* Los reportes deben incluir el tiempo total en el CEA, el tiempo en cada sala y el tiempo de cada recurso.
+* Los reportes deben poderse trasladar a un pdf paras su impresión. 
 
 Los administradores pueden:
 
 * Crear grupos e inscribir alumnos y profesores.
+* Registrar el ingreso y la salida de usuarios.
 * Ver una lista de usuarios activos (dentro del CEA), así como la actividad que están realizando y el tiempo que llevan tanto en el CEA como utilizando un recurso particular, en tiempo real.
 * Imprimir reportes.
 
+En una etapa posterior del proyecto se requiere que los reportes puedan ser visualizados en línea, con los permisos adecuados para cada usuario.
