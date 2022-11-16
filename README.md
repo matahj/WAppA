@@ -1,4 +1,4 @@
-## WebApp del Centro de Estudio Autodirigido
+# WebApp del Centro de Estudio Autodirigido
 
 El Centro de Estudio Autodirigido (CEA) cuenta con diversos recursos para el aprendizaje autónomo de idiomas, todos ellos repartidos en seis salas: Audio, Cómputo, Juegos, Karaoke, Lectura y Video. La aplicación web ayuda a llevar un seguimiento del tiempo y de los recursos específicos que los usuarios utilizan durante su estancia.
 
@@ -15,15 +15,15 @@ Además:
 * Los profesores pueden solicitar al administrador un reporte (del grupo, por alumno o de él como profesor) sobre el tiempo que han estado en el CEA y sobre el tiempo de utilización de los recursos particulares.
 * Los reportes pueden ser de todo el grupo, de un alumno en particular o del profesor.
 * Los usuarios (alumnos o profesores) pueden solicitar un reporte personal de su actividad.
-* Los reportes deben incluir el tiempo total y en cada sala por usuario, desde su primera inscripción y durante el semestre actual.
-* También, los reportes deben incluir el tiempo de utilización de cada recurso, desde su primera inscripción y durante el semestre actual.
-* Los reportes deben poderse ver en la aplicación y permitir la interacción.
+* Los reportes deben incluir el tiempo total y en cada sala por usuario, desde su primera inscripción o durante el ciclo escolar actual.
+* También, los reportes deben incluir el tiempo de utilización de cada recurso, desde su primera inscripción o durante el ciclo escolar actual.
+* Los reportes se deben poderse ver en la aplicación y permitir la interacción, con los permisos de acceso adecuados para cada usuario.
 * También, los reportes deben poderse trasladar a un pdf paras su impresión. 
 
 Los administradores pueden:
 
 * Crear grupos e inscribir alumnos y profesores.
 * Ver una lista de usuarios activos (dentro del CEA), así como la actividad que están realizando y el tiempo que llevan tanto en el CEA como utilizando un recurso particular, en tiempo real.
-* Imprimir un reportes.
+* Imprimir reportes.
 
 
